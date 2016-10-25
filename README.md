@@ -1,6 +1,89 @@
 # Mirai Botnet Client, Echo Loader and CNC source code\
 
 DVR/CABLE boxversionMOD
+Target-Code-Malware-Toplevel-list-publicsource
+Ademco
+ATS Alarmes technolgy and ststems
+Area1Protection
+Avio
+Black Hawk Security
+Capture
+China security systems
+Cocktail Service
+Cpsecured
+CP PLUS
+Digital Eye'z no website
+Diote Service & Consulting
+DVR Kapta
+ELVOX
+ET Vision
+Extra Eye 4 U
+eyemotion
+EDS
+Fujitron
+Full HD 1080p
+Gazer
+Goldeye
+Goldmaster
+Grizzly
+HD IViewer
+Hi-View
+Ipcom
+IPOX
+IR
+ISC Illinois Security Cameras, Inc.
+JFL Alarmes
+Lince
+LOT
+Lux
+Lynx Security
+Magtec
+Meriva Security
+Multistar
+Navaio
+NoVus
+Optivision
+PARA Vision
+Provision-ISR
+Q-See
+Questek
+Retail Solution Inc
+RIT Huston .com
+ROD Security cameras
+Satvision
+Sav Technology
+Skilleye
+Smarteye
+Superior Electrial Systems
+TechShell
+TechSon
+Technomate
+TecVoz
+TeleEye
+Tomura
+truVue
+TVT
+Umbrella
+United Video Security System, Inc
+Universal IT Solutions
+US IT Express
+U-Spy Store
+Ventetian
+V-Gurad Security
+Vid8
+Vtek
+Vision Line
+Visar
+Vodotech.com
+Vook
+Watchman
+Xrplus
+Yansi
+Zetec
+ZoomX
+
+Read more: http://news.softpedia.com/news/remote-code-execution-flaw-found-in-firmware-of-70-different-cctv-dvr-vendors-502096.shtml#ixzz4O3Tos7nZ
+
 
 
 http://blog.malwaremustdie.org/2016/08/mmd-0056-2016-linuxmirai-just.html
